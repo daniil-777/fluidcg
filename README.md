@@ -1,2 +1,3 @@
 # PhysItProject
-Welcome to our project
+
+Liquid simulation using PBS for computer graphics
